@@ -1,0 +1,28 @@
+/* variables */
+:root{ 
+    /* selects the root documents */
+    --primary: #FFC636;
+    --secondar: #0A0B5B;
+}
+/*  reset */
+
+/*  base styles */
+
+/*  fonts */
+
+/*  mobile styles */
+
+/*  small tablet styles */
+@media screen and (min-width: 620px){
+
+}
+
+/*  large tablets and laptops styles */
+@media screen and (min-width: 960px){
+    
+}
+
+/*  desktops styles */
+@media screen and (min-width: 1200px){
+    
+}
